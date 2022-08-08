@@ -8,6 +8,7 @@ public class TwoTest {
 	public void twoTest() {
 		
 		System.out.println("Inside TwoTest");
+		System.out.println("Changed in GitHub Repository");
 		
 	}
 
