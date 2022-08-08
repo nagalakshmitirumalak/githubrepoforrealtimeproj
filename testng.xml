@@ -10,19 +10,11 @@
 			<class name="realtimeproject.TwoTest" />
 		</classes>
 	</test>
-	<test thread-count="5" name="LoginTest">
-		<classes>
-			<class name="realtimeproject.LoginTest" />
-		</classes>
-	</test>
+	
 	<test thread-count="5" name="FirstTest">
 		<classes>
 			<class name="realtimeproject.FirstTest" />
 		</classes>
 	</test>
-	<test thread-count="5" name="ThreeTest">
-		<classes>
-			<class name="realtimeproject.ThreeTest" />
-		</classes>
-	</test> <!-- Test -->
+	
 </suite> <!-- Suite -->
